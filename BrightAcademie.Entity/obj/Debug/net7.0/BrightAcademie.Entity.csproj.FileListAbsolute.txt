@@ -1,0 +1,12 @@
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\bin\Debug\net7.0\BrightAcademie.Entity.deps.json
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\bin\Debug\net7.0\BrightAcademie.Entity.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\bin\Debug\net7.0\BrightAcademie.Entity.pdb
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\refint\BrightAcademie.Entity.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\BrightAcademie.Entity.pdb
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Entity\obj\Debug\net7.0\ref\BrightAcademie.Entity.dll

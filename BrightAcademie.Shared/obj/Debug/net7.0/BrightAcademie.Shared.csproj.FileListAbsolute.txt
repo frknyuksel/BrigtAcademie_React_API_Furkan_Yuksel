@@ -1,0 +1,15 @@
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\bin\Debug\net7.0\BrightAcademie.Shared.deps.json
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\bin\Debug\net7.0\BrightAcademie.Shared.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\bin\Debug\net7.0\BrightAcademie.Shared.pdb
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\refint\BrightAcademie.Shared.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.pdb
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\ref\BrightAcademie.Shared.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\bin\Debug\net7.0\BrightAcademie.Entity.dll
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\bin\Debug\net7.0\BrightAcademie.Entity.pdb
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\BrightAkademie\BrightAcademie.Shared\obj\Debug\net7.0\BrightAcademie.Shared.csproj.CopyComplete
